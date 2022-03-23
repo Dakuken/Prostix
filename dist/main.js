@@ -1,5 +1,4 @@
 import { GLTFLoader } from './GLTFLoader.js';
-import sheet from './style.css';
 import * as THREE from 'https://unpkg.com/three@0.138.3/build/three.module.js';
 // Setup
 
